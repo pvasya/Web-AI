@@ -25,7 +25,7 @@ Google cloud GPU VM with CUDA 12.x
 create rule for port TCP 3000
 
 frontend 
-in frontend/src/components/Main.jsx change localhost:3000 at your VM instance external IP
+in frontend/src/components/Main.jsx change localhost at your VM instance external IP
 
 ```
 wget https://developer.download.nvidia.com/compute/cuda/repos/debian12/x86_64/cuda-keyring_1.1-1_all.deb
