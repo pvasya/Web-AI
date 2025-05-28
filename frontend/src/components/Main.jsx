@@ -342,7 +342,7 @@ export const Main = ({selectedMode, hand, camera, canvasPaintRef, isModelDownloa
                                             
                                             let startTime = performance.now();
 
-                                            const response = await fetch('http://35.226.163.238:3000/moondream', {
+                                            const response = await fetch('http://localhost:3000/moondream', {
                                                 method: 'POST',
                                                 body: formData
                                             });
