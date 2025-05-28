@@ -1,4 +1,4 @@
 # Web-AI
 Vasyl Popovych
 Coursework
-![Web AI theme for a website](https://github.com/user-attachments/assets/6c5172fc-19e5-418e-a551-1e451cd6ecb8)
+![Web AI](https://github.com/user-attachments/assets/2792bbf5-0788-44a0-9cff-038d437c1d08)
