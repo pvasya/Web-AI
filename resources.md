@@ -1,18 +1,20 @@
 # Використані джерела
 
-1. How Adobe used Web ML with TensorFlow.js to enhance Photoshop for web
-https://blog.tensorflow.org/2023/03/how-adobe-used-web-ml-with-tensorflowjs-to-enhance-photoshop-for-web.html
-2. Web AI Summit 2024: State of client side machine learning [YouTube]
-https://youtu.be/tF70o1Q8VkM?si=brbamCKM8Iom6Tky
-3. Beyond the banner: The power of Web AI to personalize paid rich media ads [YouTube]
-https://youtu.be/vizYvB3-Z8o?si=Z0g-jTkztLj6dGZV
-4. The future of AI is now: Real-life case studies for on client-side AI adoption in web apps [Youtube]
-https://youtu.be/LFveSvTJh5U?si=p-bgM2Zy7dB8g0qD
-5. Practical on-device AI for web developers [Youtube]
-https://youtu.be/VDtgyEB9Q_Q?si=2kRJPPDUH1W5oSmz
-6. Web AI: On-device machine learning models and tools for your next project [Youtube]
-https://youtu.be/PJm8WNajZtw?si=iFYVIP3GylhN-Iej
-7. Web AI on next generation AI PCs [Youtube]
-https://youtu.be/5BjB7AIed3A?si=A32VQHBUuw6DObpK
-8. Transformers.js: State-of-the-art Machine Learning for the web [Youtube]
-https://youtu.be/n18Lrbo8VU8?si=zUPHL0gO1A4sVtjI
+1. Реалізований вебзастосунок [Електронний ресурс] URL: https://github.com/pvasya/Web-AI
+2. Web AI Summit 2024: State of client side machine learning [Електронний ресурс] URL: https://youtu.be/tF70o1Q8VkM?si=RRVVRKa4kpctRga4
+3. Transforming access to healthcare through Web AI  [Електронний ресурс] URL: https://youtu.be/rR08A-X11Ys?si=1K6_-h99kzD3G7e4
+4. Web AI in industry: How TensorFlow.js has driven what you see on the supermarket shelves [Електронний ресурс] URL: https://youtu.be/u9MCtWrgEUs?si=y5WqhuqOl4c_Xt1z
+5. MediaPipe Tasks Vision [Електронний ресурс] URL: https://www.npmjs.com/package/@mediapipe/tasks-vision
+6. Background Features in Google Meet, Powered by Web ML [Електронний ресурс] URL: https://research.google/blog/background-features-in-google-meet-powered-by-web-ml
+7. How Adobe used Web ML with TensorFlow.js to enhance Photoshop for web [Електронний ресурс] URL: https://blog.tensorflow.org/2023/03/how-adobe-used-web-ml-with-tensorflowjs-to-enhance-photoshop-for-web.html
+8. React Reference Overview [Електронний ресурс] URL: https://react.dev/reference/react
+9. Tailwind CSS Docs [Електронний ресурс] URL: https://tailwindcss.com/docs
+10. Express Guide [Електронний ресурс] URL: https://expressjs.com/en/guide/routing.html
+11. Hand landmarks detection guide [Електронний ресурс] URL: https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
+12. Transformers.js [Електронний ресурс] URL: https://huggingface.co/docs/transformers.js/index
+13. Xenova/moondream2 Model Card [Електронний ресурс] URL: https://huggingface.co/Xenova/moondream2
+14. React Webcam component [Електронний ресурс] URL: https://www.npmjs.com/package/react-webcam
+15. Web Workers API [Електронний ресурс] URL: https://developer.mozilla.org/en-US/docs/Web/API/Worker
+16. Lazy loading Overview [Електронний ресурс] URL: https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Lazy_loading
+17. Compute Engine documentation [Електронний ресурс] URL: https://cloud.google.com/compute/docs
+18. GPU acceleration in a Node.js environment [Електронний ресурс] URL: https://github.com/huggingface/transformers.js/issues/575
